@@ -1,0 +1,6 @@
+{
+  "name": "SakuSheet — Manajemen Keuangan Pribadi",
+  "description": "Aplikasi manajemen keuangan pribadi real-time yang terintegrasi dengan Google Sheets, dilengkapi pemindai foto struk/tagihan otomatis dan pencatatan manual.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
